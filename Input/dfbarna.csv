@@ -1,0 +1,66 @@
+name,latitud,longitud,category
+Starbucks Rambla Cataluña,41.387953542832165,2.1679005112034084,Starbucks
+Starbucks Plaza Universitat,41.38541870874625,2.163150288025445,Starbucks
+Starbucks,41.38784750930173,2.1696339235092985,Starbucks
+Starbucks Room Mate Anna,41.39278181321591,2.1656320100589097,Starbucks
+Starbucks Pelai,41.38580458944728,2.1678578853607178,Starbucks
+Starbucks B Hotel (Starbucks),41.376243505662345,2.1507315030599163,Starbucks
+Starbucks Diagonal 593,41.388743961461884,2.130627505151918,Starbucks
+Starbucks Rambla Canaletas,41.38348531847921,2.1713820474796326,Starbucks
+Starbucks Consel,41.39073404229646,2.1651365170026944,Starbucks
+Starbucks,41.4023121744117,2.173994779586792,Starbucks
+Starbucks Vía Laietana,41.385212881187684,2.177009738540203,Starbucks
+Starbucks,41.39263077830675,2.143957475482232,Starbucks
+Starbucks Sant Pere,41.38878261751958,2.1720633907608704,Starbucks
+Starbucks La Maquinista,41.439793345953674,2.197619699487752,Starbucks
+Starbucks Diagonal 640,41.39106927048871,2.136410046858057,Starbucks
+Starbucks,41.38641765662956,2.1651495862102075,Starbucks
+Starbucks Rambla 89,41.384856,2.170487,Starbucks
+Starbucks Moll d'Espanya,41.37460653392636,2.182557655378808,Starbucks
+Starbucks,41.38190998967705,2.172113994974859,Starbucks
+Starbucks Diagonal 635,41.38701603939547,2.123901844024658,Starbucks
+Starbucks CC Glòries,41.405101777917146,2.1914184045948444,Starbucks
+Starbucks Argentería,41.38356136455636,2.181132782745855,Starbucks
+Starbucks Gran vía 2,41.35947,2.1300998,Starbucks
+Starbucks CC Finestrelles,41.37714,2.098316,Starbucks
+Starbucks Diagonal 3,41.40967326146267,2.215713323322027,Starbucks
+Starbucks,41.395066280471816,2.15812165819131,Starbucks
+Starbucks,41.3477107,2.0791238,Starbucks
+Palau Sant Jordi,41.36423103566795,2.1527103617560694,Basketball_Stadium
+Palau Blaugrana,41.380026216148025,2.12011875507744,Basketball_Stadium
+Poliesportiu Municipal Besos,41.421779214740525,2.2155556864265376,Basketball_Stadium
+Palau Olímpic de Badalona,41.44253864302203,2.2319365390090002,Basketball_Stadium
+La Maquinista,41.41721838402362,2.170336410916111,Basketball_Stadium
+Pavelló Joan Busquets,41.32878352964256,2.104003650883588,Basketball_Stadium
+Camp Nou,41.380793535119196,2.1227431297302246,Basketball_Stadium
+Secció Esportiva Santa Eulàlia (SESE),41.42965595767489,2.173898220062256,Basketball_Stadium
+UE Lima-Horta,41.43394334550334,2.16080904006958,Basketball_Stadium
+C.P. Sant Josep de Badalona,41.446024182935005,2.2452181857942883,Basketball_Stadium
+IES Front Maritim,41.402759,2.209296,Basketball_Stadium
+Pabellón Virrei Amat,41.429609406034935,2.1736471628405734,Basketball_Stadium
+Poliesportiu Ignasi Iglesias,41.44194239937855,2.190864290644525,Basketball_Stadium
+Pavelló La Bastida Santa Coloma de Gramenet,41.45882140793585,2.2124484817416907,Basketball_Stadium
+Basquet Centre Catòlic,41.36143686410732,2.101339731348719,Basketball_Stadium
+Pavello Riera,41.35127246377393,2.074426750537556,Basketball_Stadium
+Pavello Basquet Cornella,41.35225077879967,2.069796803301961,Basketball_Stadium
+Pabellon Bufala,41.46007691738156,2.236978519478902,Basketball_Stadium
+Oposicions Cos Superior Gene,41.3780869,2.148093900000049,Preschool
+kinderbarcelona,41.40293502807617,2.2014734745025635,Preschool
+Escola Infantil Viky,41.375266550963744,2.119068406163471,Preschool
+La Nenuc dels Més Menuts,41.43537396,2.18847622,Preschool
+Col·legi Mare de Déu de la Soledat,41.43354,2.1926684,Preschool
+Llar d'infants Petits Gegants,41.38079934,2.04741775,Preschool
+GYMBOREE PLAY and MUSIC,41.3814361,2.0430126,Preschool
+Un Món Màgic,41.490467,2.132017,Preschool
+EBM Virolet,41.462509,2.242383,Preschool
+Club Artística Sant Cugat,41.47340112,2.09585715,Preschool
+Oposicions Cos Superior Gene,41.3780869,2.148093900000049,Vegan_Restaurant
+kinderbarcelona,41.40293502807617,2.2014734745025635,Vegan_Restaurant
+Escola Infantil Viky,41.375266550963744,2.119068406163471,Vegan_Restaurant
+La Nenuc dels Més Menuts,41.43537396,2.18847622,Vegan_Restaurant
+Col·legi Mare de Déu de la Soledat,41.43354,2.1926684,Vegan_Restaurant
+Llar d'infants Petits Gegants,41.38079934,2.04741775,Vegan_Restaurant
+GYMBOREE PLAY and MUSIC,41.3814361,2.0430126,Vegan_Restaurant
+Un Món Màgic,41.490467,2.132017,Vegan_Restaurant
+EBM Virolet,41.462509,2.242383,Vegan_Restaurant
+Club Artística Sant Cugat,41.47340112,2.09585715,Vegan_Restaurant
